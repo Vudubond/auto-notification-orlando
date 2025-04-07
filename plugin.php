@@ -5,7 +5,7 @@
  'author' => 'orlando',
  'description' => 'Sends automatic reminders to clients based on ticket status and inactivity.',
  'url' => 'https://github.com/Vudubond/auto-notification-orlando/',
- 'plugin' => 'class.AutoReplyerOrlando.php:AutoReplyerOrlando',
+ 'plugin' => 'class.AutoReplyerOrlando.php:AutoReplyerOrlandoPlugin',
  'ost_version' =>    '1.17', # Require osTicket v1.17	
 );
 
